@@ -25,7 +25,7 @@ public class Hider {
                 outputStream.write(buffer, 0, bytesRead);
             }
 
-            System.out.println("Done successfully!");
+            System.out.println("Done successfully ;) ");
         }
     }
 }
